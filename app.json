@@ -2,6 +2,10 @@
   "expo": {
     "name": "covid19-tracker",
     "slug": "covid19-tracker",
+    "packagerOpts": {
+      "config": "metro.config.js",
+      "sourceExts": ["js", "jsx", "svg", "ts", "tsx"]
+    },
     "platforms": [
       "ios",
       "android",
@@ -9,9 +13,9 @@
     ],
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/logo.png",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/splashFinal.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -23,6 +27,12 @@
     ],
     "ios": {
       "supportsTablet": true
+    },
+    "android": {
+      "package": "com.rishu",
+      "versionCode": 1
     }
+
   }
 }
+

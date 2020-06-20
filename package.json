@@ -9,14 +9,21 @@
   },
   "dependencies": {
     "expo": "~37.0.3",
+    "neumorphism-ui": "^1.0.2",
     "react": "~16.9.0",
     "react-dom": "~16.9.0",
     "react-native": "https://github.com/expo/react-native/archive/sdk-37.0.1.tar.gz",
-    "react-native-web": "~0.11.7"
+    "react-native-multicolor-progress-bar": "^1.0.3",
+    "react-native-responsive-fontsize": "^0.4.3",
+    "react-native-svg": "11.0.1",
+    "react-native-svg-transformer": "^0.14.3",
+    "react-native-three-dots-loader": "^1.0.1",
+    "react-native-web": "~0.11.7",
+    "tabletop": "^1.6.3"
   },
   "devDependencies": {
-    "babel-preset-expo": "~8.1.0",
-    "@babel/core": "^7.8.6"
+    "@babel/core": "^7.10.3",
+    "babel-preset-expo": "~8.1.0"
   },
   "private": true
 }
