@@ -18,7 +18,7 @@
     "react-native-svg": "11.0.1",
     "react-native-svg-transformer": "^0.14.3",
     "react-native-three-dots-loader": "^1.0.1",
-    "react-native-web": "~0.11.7",
+    "react-native-web": "~0.13.6",
     "tabletop": "^1.6.3"
   },
   "devDependencies": {
