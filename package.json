@@ -22,7 +22,7 @@
     "tabletop": "^1.6.3"
   },
   "devDependencies": {
-    "@babel/core": "^7.10.3",
+    "@babel/core": "^7.12.16",
     "babel-preset-expo": "~8.1.0"
   },
   "private": true
